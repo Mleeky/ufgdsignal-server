@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/codesters-master/.idea/codesters-master.iml" filepath="$USER_HOME$/Desktop/codesters-master/.idea/codesters-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/django-registration-1.0.iml" filepath="$PROJECT_DIR$/.idea/django-registration-1.0.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5978d6b0-8529-4e4e-85a3-e763ff302ba8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ar/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/bg/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ca/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/cs/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/da/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/de/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/el/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/en/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/es/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/es_AR/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/fa/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/fr/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/he/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/hr/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/is/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/it/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ja/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ko/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/nb/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/nl/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/pl/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/pt/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/pt_BR/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ru/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/sl/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/sr/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/sv/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/tr_TR/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/zh_CN/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/zh_TW/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ar/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/bg/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ca/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/cs/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/da/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/de/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/el/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/en/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/es/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/es_AR/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/fa/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/fr/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/he/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/hr/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/is/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/it/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ja/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ko/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/nb/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/nl/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/pl/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/pt/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/pt_BR/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ru/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/sl/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/sr/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/sv/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/tr_TR/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/zh_CN/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/zh_TW/LC_MESSAGES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_sources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/doctrees/backend-api.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/backends" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/backends" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/bg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/bg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/management/commands" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/management/commands" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/comment-bright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/comment-close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/da" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/da" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/de" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/de" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/doctrees/default-backend.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/backends/default" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/backends/default" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ar/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/bg/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ca/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/cs/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/da/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/de/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/el/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/en/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/es/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/es_AR/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/fa/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/fr/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/he/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/hr/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/is/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/it/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ja/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ko/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/nb/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/nl/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/pl/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/pt/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/pt_BR/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ru/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/sl/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/sr/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/sv/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/tr_TR/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/zh_CN/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/zh_TW/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ar/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/bg/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ca/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/cs/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/da/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/de/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/el/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/en/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/es/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/es_AR/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/fa/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/fr/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/he/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/hr/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/is/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/it/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ja/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ko/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/nb/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/nl/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/pl/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/pt/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/pt_BR/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ru/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/sl/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/sr/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/sv/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/tr_TR/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/zh_CN/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/zh_TW/LC_MESSAGES/django.mo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/doctrees" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/down-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/el" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/el" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/en" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/en" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/doctrees/environment.pickle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/es" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/es" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/es_AR" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/es_AR" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/fa" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/fa" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/doctrees/faq.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/doctrees/forms.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/fr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/fr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/he" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/he" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/hr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/hr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/doctrees/index.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/is" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/is" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/it" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/it" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ja" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ja" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ko" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ko" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/management" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/management" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/nb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/nb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/nl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/nl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/objects.inv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/pt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/pt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/pt_BR" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/pt_BR" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/doctrees/quickstart.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/doctrees/release-notes.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ru" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ru" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/doctrees/signals.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/doctrees/simple-backend.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/backends/simple" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/backends/simple" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/sl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/sl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/sr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/sr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/sv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/sv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/tr_TR" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/tr_TR" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/up-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/doctrees/upgrade.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/doctrees/views.doctree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/zh_CN" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/zh_CN" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/zh_TW" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/zh_TW" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/.buildinfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/INSTALL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MANIFEST.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/backends/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/backends/default/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/backends/simple/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/management/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/management/commands/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/backends/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/backends/default/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/backends/simple/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/management/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/management/commands/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/auth_urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/auth_urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/backend-api.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/backend-api.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/basic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/management/commands/cleanupregistration.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/management/commands/cleanupregistration.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/conf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/default-backend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/default-backend.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/default-backend.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/tests/default_backend.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/tests/default_backend.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/django-registration-1.0.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ar/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/bg/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ca/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/cs/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/da/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/de/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/el/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/en/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/es/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/es_AR/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/fa/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/fr/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/he/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/hr/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/is/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/it/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ja/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ko/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/nb/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/nl/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/pl/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/pt/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/pt_BR/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/ru/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/sl/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/sr/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/sv/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/tr_TR/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/zh_CN/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/locale/zh_TW/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ar/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/bg/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ca/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/cs/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/da/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/de/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/el/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/en/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/es/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/es_AR/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/fa/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/fr/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/he/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/hr/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/is/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/it/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ja/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ko/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/nb/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/nl/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/pl/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/pt/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/pt_BR/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/ru/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/sl/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/sr/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/sv/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/tr_TR/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/zh_CN/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/locale/zh_TW/LC_MESSAGES/django.po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/doctools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/faq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/faq.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/faq.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/tests/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/tests/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/forms.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/forms.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/genindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/make.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/tests/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/tests/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/modindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/other.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/py-modindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/pygments.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/quickstart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/quickstart.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/quickstart.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/release-notes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/release-notes.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/release-notes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/searchindex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/searchtools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/signals.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/signals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/signals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/signals.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/signals.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/simple-backend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/simple-backend.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/simple-backend.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/tests/simple_backend.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/tests/simple_backend.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/testrunner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/upgrade.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/upgrade.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/upgrade.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/backends/default/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/backends/simple/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/tests/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/backends/default/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/backends/simple/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/tests/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/views.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/backends/default/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/lib/registration/backends/simple/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/backends/default/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/registration/backends/simple/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/views.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_sources/views.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/_build/html/_static/websupport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="django-registration-1.0.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="django-registration-1.0" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="registration_form.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/codesters-master/templates/registration/registration_form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="41" selection-start="480" selection-end="502" vertical-scroll-proportion="-6.5384617">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/codesters-master/codesters/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="50" selection-start="1450" selection-end="1450" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/codesters-master/templates/registration/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+              <folding>
+                <marker date="1376463838000" expanded="true" signature="137:894" placeholder="..." />
+                <marker date="1376463838000" expanded="true" signature="209:887" placeholder="..." />
+                <marker date="1376463838000" expanded="true" signature="365:504" placeholder="..." />
+                <marker date="1376463838000" expanded="true" signature="940:1027" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth_urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/lib/registration/auth_urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="51" selection-start="925" selection-end="935" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#775#811#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signals.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/lib/registration/signals.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/lib/registration/backends/default/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="0" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build/lib/registration/backends/default/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="472" selection-end="472" vertical-scroll-proportion="-1.5799257">
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/registration/backends/default/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="26" selection-start="2201" selection-end="2201" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/codesters-master/codesters/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="19" selection-start="557" selection-end="557" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth_urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/registration/auth_urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="46" selection-start="1113" selection-end="1113" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#775#811#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/registration/auth_urls.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-registration-1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-registration-1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-registration-1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-registration-1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-registration-1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="registration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-registration-1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-registration-1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="registration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-registration-1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django-registration-1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="registration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backends" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/codesters-master" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\HelderSi\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5978d6b0-8529-4e4e-85a3-e763ff302ba8" name="Default" comment="" />
+      <created>1379636593015</created>
+      <updated>1379636593015</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2439394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$USER_HOME$/Desktop/codesters-master/codesters/views.py</url>
+          <line>72</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/codesters-master/templates/registration/activation_email_subject.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="40" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/codesters-master/templates/registration/activation_email.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/signals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/backends/default/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="11" selection-start="3623" selection-end="3623" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/codesters-master/profiles/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/codesters-master/codesters/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="19" selection-start="557" selection-end="557" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/codesters-master/codesters/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="50" selection-start="1450" selection-end="1450" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/backends/default/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="26" selection-start="2201" selection-end="2201" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registration/auth_urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="46" selection-start="1113" selection-end="1113" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#775#811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/codesters-master/templates/registration/registration_form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="41" selection-start="480" selection-end="502" vertical-scroll-proportion="-6.5384617">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/codesters-master/templates/registration/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1376463838000" expanded="true" signature="137:894" placeholder="..." />
+            <marker date="1376463838000" expanded="true" signature="209:887" placeholder="..." />
+            <marker date="1376463838000" expanded="true" signature="365:504" placeholder="..." />
+            <marker date="1376463838000" expanded="true" signature="940:1027" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/lib/registration/auth_urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="51" selection-start="925" selection-end="935" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#775#811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/lib/registration/signals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/lib/registration/backends/default/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/lib/registration/backends/default/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="472" selection-end="472" vertical-scroll-proportion="-1.5799257">
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
